@@ -1,5 +1,4 @@
 # STUDENT_MANAGEMENT_SYSTEM
-"My First J2EE Project"
 Description:
 	Developed a Student Management System using Java technologies (JDBC, Servlets, JSP) following the 
 	MVC design pattern. The system will provide a user-friendly interface for admin login, data entry, 
