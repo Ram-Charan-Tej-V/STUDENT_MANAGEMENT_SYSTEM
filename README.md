@@ -1,6 +1,7 @@
 # STUDENT_MANAGEMENT_SYSTEM
 ## Description:
-	Developed a Student Management System using Java technologies (JDBC, Servlets, JSP) following the 
+	
+ Developed a Student Management System using Java technologies (JDBC, Servlets, JSP) following the 
 	MVC design pattern. The system will provide a user-friendly interface for admin login, data entry, 
 	storage in a JDBC database, and display of student details in a table format.
 ## Features:
@@ -37,4 +38,5 @@
  1. Implement proper exception handling throughout the application to manage errors gracefully.
  2. Display meaningful error messages to users in case of any issues.
  ### Conclusion:
-This Student Management System project will provide a hands-on experience in building a web application using Java technologies and the MVC design pattern. It covers essential aspects such as user authentication, data validation, database interactions, and data display.
+This Student Management System project will provide a hands-on experience in building a web application using Java technologies and 
+the MVC design pattern. It covers essential aspects such as user authentication, data validation, database interactions, and data display.
